@@ -1,0 +1,1 @@
+print("i am ready to learn")
